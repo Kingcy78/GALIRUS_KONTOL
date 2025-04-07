@@ -1,0 +1,1 @@
+# GALIRUS_KONTOL
