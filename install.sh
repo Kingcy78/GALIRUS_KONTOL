@@ -11,4 +11,4 @@ apt-get install john
 
 node app.js
 
-node 
+node GALI_BANCI.js
